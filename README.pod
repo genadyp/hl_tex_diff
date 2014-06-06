@@ -1,11 +1,21 @@
-NAME
-    hl_tex_diff - highlights diff of LaTeX files.
+=head1 NAME
 
-NOTEs
-  LaTeX dependencies
-     LaTeX framed package for shaded environment.
+B<hl_tex_diff> - highlights diff of LaTeX files.
 
-  Limitations
-     Changes in the existing figures are not highlighted
-     - only new figures highlighted.
+=cut
+
+=head1 NOTEs
+
+=head2 LaTeX dependencies
+
+ LaTeX framed package for shaded environment.
+
+=cut
+
+=head2 Limitations
+
+ Changes in the existing figures are not highlighted
+ - only new figures highlighted.
+
+=cut
 
