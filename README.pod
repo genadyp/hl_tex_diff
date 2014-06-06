@@ -1,0 +1,18 @@
+HL_TEX_DIFF(1)        User Contributed Perl Documentation       HL_TEX_DIFF(1)
+
+
+
+NNAAMMEE
+       hhll__tteexx__ddiiffff - highlights diff of LaTeX files.
+
+NNOOTTEEss
+   LLaaTTeeXX ddeeppeennddeenncciieess
+        LaTeX framed package for shaded environment.
+
+   LLiimmiittaattiioonnss
+        Changes in the existing figures are not highlighted
+        - only new figures highlighted.
+
+
+
+perl v5.10.1                      2014-05-19                    HL_TEX_DIFF(1)
